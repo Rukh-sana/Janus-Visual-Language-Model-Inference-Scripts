@@ -10,13 +10,6 @@ This repository provides Python scripts to perform inference using the **Deepsee
 
 The scripts use `janus.models.MultiModalityCausalLM` and `VLChatProcessor` to run multimodal inference. The input is an image and a textual query, and the output is a generated textual response.
 
-## 🧰 Requirements
-
-- Python 3.8+
-- PyTorch
-- Transformers (Hugging Face)
-- Deepseek Janus modules
-- PIL or similar image loader
 
 ## 🖥️ Scripts
 

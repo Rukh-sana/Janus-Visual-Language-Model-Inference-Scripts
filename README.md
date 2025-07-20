@@ -28,6 +28,9 @@ Use this script if your system supports **CUDA** and **GPU acceleration**.
 python test.py
 
 
+```bash
+
+
 📝 Usage
 Place your model directory at the specified path (e.g., c:\Janus\model2).
 

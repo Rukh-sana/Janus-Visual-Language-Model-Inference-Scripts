@@ -27,4 +27,14 @@ Use this script if your system supports **CUDA** and **GPU acceleration**.
 ```bash
 python test.py
 
+## 🚀 CPU Version
+
+If you don't have a GPU, use the CPU version script: `test1.py`.
+
+### ✅ Run CPU Version
+
+```bash
+python test1.py
+
+
 

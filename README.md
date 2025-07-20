@@ -28,22 +28,3 @@ Use this script if your system supports **CUDA** and **GPU acceleration**.
 python test.py
 
 
-```bash
-
-
-📝 Usage
-Place your model directory at the specified path (e.g., c:\Janus\model2).
-
-Add your input image as test1.png in the root directory.
-
-Customize the prompt or file names inside the scripts if needed.
-
-Run the appropriate script based on your hardware support.
-
-🧪 Output
-The script will output the model's response describing the image and addressing the prompt.
-
-📄 License
-This project is for educational and research purposes only. Refer to Deepseek Janus' license and terms for model usage.
-
-

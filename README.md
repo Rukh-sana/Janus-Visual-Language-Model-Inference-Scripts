@@ -17,7 +17,13 @@ The scripts use `janus.models.MultiModalityCausalLM` and `VLChatProcessor` to ru
 
 Use this script if your system supports **CUDA** and **GPU acceleration**.
 
+
+## 🧠 Behind the Build: Developer Blog
+
 ```bash
 python test.py
+
+
+
 
 

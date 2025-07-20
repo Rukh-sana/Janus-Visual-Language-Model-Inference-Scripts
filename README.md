@@ -36,5 +36,8 @@ If you don't have a GPU, use the CPU version script: `test1.py`.
 ```bash
 python test1.py
 
+<image_placeholder>
+Describe the image and is the entity on the image dangerous?
+This image shows a person holding a sharp object. Based on the context, the entity might be dangerous.
 
 
